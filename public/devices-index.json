@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-14T02:14:59.922Z",
+  "generated_at": "2025-08-14T06:41:24.358Z",
   "primary_repo": "DerpFest-AOSP/Updater-Stuff@master",
   "detected_repos": [
     {
@@ -355,9 +355,9 @@
     {
       "codename": "caiman",
       "aliases": [
-        "Google Pixel Tablet"
+        "Google Pixel 9 Pro"
       ],
-      "displayName": "Google Pixel Tablet",
+      "displayName": "Google Pixel 9 Pro",
       "maintainer": "Unknown",
       "latest": {
         "filename": "DerpFest-v15.2-20250622-caiman-Official-Stable.zip",
